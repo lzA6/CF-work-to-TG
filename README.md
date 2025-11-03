@@ -247,6 +247,7 @@ export default {
 | `BOT_TOKEN` | `7897576280:AAEu4t5aXMP9ZY849z5vAo7Ly2_6DImbTOg` | 机器人身份凭证 | ✅ 加密 |
 | `SOURCE_CHAT_ID` | `-1003258657392` | 信息源频道 | ❌ 不加密 |
 | `DESTINATION_CHAT_ID` | 你第二步获取的ID | 你的目标频道 | ❌ 不加密 |
+<img width="1878" height="1187" alt="290a02f5435051e034443b00fae3ffde" src="https://github.com/user-attachments/assets/bd7e6bac-27b6-43e7-bc82-7f3a01c41b72" />
 
 **具体操作**：
 - 点击 **"+ 添加变量"**
